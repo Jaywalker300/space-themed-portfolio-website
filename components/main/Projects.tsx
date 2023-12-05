@@ -13,7 +13,7 @@ const Projects = () => {
       
              <div className="h-full w-full flex-col md:flex-row gap-10 px-10">
              <ProjectCard 
-             src="/public/portfolio-items/ai-saas-website.jpg"
+             src="/car-showcase.png"
              title='Car Showcase'
              description='A car showcase website built with NextJs and Tailwind.'/>
          </div>
